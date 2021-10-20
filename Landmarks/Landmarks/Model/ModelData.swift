@@ -5,7 +5,7 @@
 //  Created by Yongwoo Marco on 2021/10/20.
 //
 
-import Foundations
+import SwiftUI
 
 var landmarks: [Landmark] = load("landmarkData.json")
 
